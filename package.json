@@ -1,0 +1,29 @@
+{
+  "name": "test-audio-sprites",
+  "version": "1.0.0",
+  "description": "Tool to test Audio and VTT sprites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drochgenius/test-audio-sprites.git"
+  },
+  "keywords": [],
+  "author": "Dominique Rochefort <dominique.rochefort@hmhco.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drochgenius/test-audio-sprites/issues"
+  },
+  "homepage": "https://github.com/drochgenius/test-audio-sprites#readme",
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "eslint": "^4.14.0",
+    "eslint-config-hmh-mtl": "^1.7.2",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-types": "^1.0.2",
+    "howler": "^2.0.7",
+    "typescript": "^2.6.2"
+  }
+}
