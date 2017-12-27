@@ -1,0 +1,213 @@
+{
+    "type": "mx18_rti_paced_content",
+    "contentId": "",
+    "playlists": [
+        {
+            "id": "step-0",
+            "trackIds": [
+                "vot-0"
+            ]
+        },
+        {
+            "id": "step-1",
+            "trackIds": [
+                "vot-1"
+            ]
+        },
+        {
+            "id": "step-2",
+            "trackIds": [
+                "vot-2"
+            ]
+        },
+        {
+            "id": "step-3",
+            "trackIds": [
+                "vot-3"
+            ]
+        },
+        {
+            "id": "step-4",
+            "trackIds": [
+                "vot-4"
+            ]
+        },
+        {
+            "id": "step-5",
+            "trackIds": [
+                "vot-5"
+            ]
+        },
+        {
+            "id": "step-6",
+            "trackIds": [
+                "vot-6"
+            ]
+        },
+        {
+            "id": "step-7",
+            "trackIds": [
+                "vot-7"
+            ]
+        },
+        {
+            "id": "step-8",
+            "trackIds": [
+                "vot-8"
+            ]
+        }
+    ],
+    "tracks": [
+        {
+            "id": "vot-0",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:09.396",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "The manager of a hockey team is writing out the team roster. ",
+                    "startTime": 0,
+                    "endTime": 4309.444
+                },
+                {
+                    "text": "She notices that the jersey numbers form a pattern. ",
+                    "startTime": 4309.444,
+                    "endTime": 7983.068
+                },
+                {
+                    "text": "What is the pattern?",
+                    "startTime": 7983.068,
+                    "endTime": 9396
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-1",
+            "clipBegin": "00:00:10.397",
+            "clipEnd": "00:00:10.779",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "",
+                    "startTime": 10397,
+                    "endTime": 10779
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-2",
+            "clipBegin": "00:00:11.780",
+            "clipEnd": "00:00:12.162",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "",
+                    "startTime": 11780,
+                    "endTime": 12162
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-3",
+            "clipBegin": "00:00:13.163",
+            "clipEnd": "00:00:13.546",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "",
+                    "startTime": 13163,
+                    "endTime": 13546
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-4",
+            "clipBegin": "00:00:14.547",
+            "clipEnd": "00:00:17.908",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "What number is on Megan’s jersey?",
+                    "startTime": 14547,
+                    "endTime": 17908
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-5",
+            "clipBegin": "00:00:18.909",
+            "clipEnd": "00:00:27.521",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "Let’s look to see if there is a constant increase ",
+                    "startTime": 18909,
+                    "endTime": 22719.619
+                },
+                {
+                    "text": "in the jersey numbers. ",
+                    "startTime": 22719.619,
+                    "endTime": 24472.504
+                },
+                {
+                    "text": "What is the difference between 14 and 7?",
+                    "startTime": 24472.504,
+                    "endTime": 27521
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-6",
+            "clipBegin": "00:00:28.522",
+            "clipEnd": "00:00:33.216",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "The difference between 14 and 7 is 7.",
+                    "startTime": 28522,
+                    "endTime": 33216
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-7",
+            "clipBegin": "00:00:34.217",
+            "clipEnd": "00:00:39.015",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "The difference between 21 and 14 is also 7.",
+                    "startTime": 34217,
+                    "endTime": 39015
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        },
+        {
+            "id": "vot-8",
+            "clipBegin": "00:00:40.016",
+            "clipEnd": "00:00:44.448",
+            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "vttCues": [
+                {
+                    "text": "And so is the difference ",
+                    "startTime": 40016,
+                    "endTime": 42592.744
+                },
+                {
+                    "text": "between 28 and 21.",
+                    "startTime": 42592.744,
+                    "endTime": 44448
+                }
+            ],
+            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+        }
+    ]
+}
