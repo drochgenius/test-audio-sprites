@@ -1,3 +1,6 @@
 {
-    "extends": "hmh-mtl"
+    "extends": "hmh-mtl",
+    "parserOptions": {
+        "sourceType": "module"
+    }
 }

@@ -4,7 +4,9 @@
   "description": "Tool to test Audio and VTT sprites",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/** --fix",
+    "format": "prettier src/** --write"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,9 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-types": "^1.0.2",
     "howler": "^2.0.7",
+    "rollup": "^0.53.0",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-node-resolve": "^3.0.0",
     "typescript": "^2.6.2"
   }
 }
