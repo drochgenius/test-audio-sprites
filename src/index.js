@@ -6,7 +6,7 @@ import { play } from './player';
  */
 
 // Working Sample
-play('samples/rti/audio.mp3', 'samples/rti/manifest.json');
+play('samples/long2/audio.mp3', 'samples/long2/manifest.json');
 
 // Non-working sample
 /*play(
