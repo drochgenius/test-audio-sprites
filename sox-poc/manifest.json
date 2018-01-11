@@ -1,0 +1,1503 @@
+{
+    "type": "mx18_rti_paced_content",
+    "contentId": "",
+    "playlists": [
+        {
+            "id": "step-0",
+            "trackIds": [
+                "vot-0"
+            ]
+        },
+        {
+            "id": "step-1",
+            "trackIds": [
+                "vot-1"
+            ]
+        },
+        {
+            "id": "step-2",
+            "trackIds": [
+                "vot-2"
+            ]
+        },
+        {
+            "id": "step-3",
+            "trackIds": [
+                "vot-3"
+            ]
+        },
+        {
+            "id": "step-4",
+            "trackIds": [
+                "vot-4"
+            ]
+        },
+        {
+            "id": "step-5",
+            "trackIds": [
+                "vot-5"
+            ]
+        },
+        {
+            "id": "step-6",
+            "trackIds": [
+                "vot-6"
+            ]
+        },
+        {
+            "id": "step-7",
+            "trackIds": [
+                "vot-7"
+            ]
+        },
+        {
+            "id": "step-8",
+            "trackIds": [
+                "vot-8"
+            ]
+        },
+        {
+            "id": "step-9",
+            "trackIds": [
+                "vot-9"
+            ]
+        },
+        {
+            "id": "step-10",
+            "trackIds": [
+                "vot-10"
+            ]
+        },
+        {
+            "id": "step-11",
+            "trackIds": [
+                "vot-11"
+            ]
+        },
+        {
+            "id": "step-12",
+            "trackIds": [
+                "vot-12"
+            ]
+        },
+        {
+            "id": "step-13",
+            "trackIds": [
+                "vot-13"
+            ]
+        },
+        {
+            "id": "step-14",
+            "trackIds": [
+                "vot-14"
+            ]
+        },
+        {
+            "id": "step-15",
+            "trackIds": [
+                "vot-15"
+            ]
+        },
+        {
+            "id": "step-16",
+            "trackIds": [
+                "vot-16"
+            ]
+        },
+        {
+            "id": "step-17",
+            "trackIds": [
+                "vot-17"
+            ]
+        },
+        {
+            "id": "step-18",
+            "trackIds": [
+                "vot-18"
+            ]
+        },
+        {
+            "id": "step-19",
+            "trackIds": [
+                "vot-19"
+            ]
+        },
+        {
+            "id": "step-20",
+            "trackIds": [
+                "vot-20"
+            ]
+        },
+        {
+            "id": "step-21",
+            "trackIds": [
+                "vot-21"
+            ]
+        },
+        {
+            "id": "step-22",
+            "trackIds": [
+                "vot-22"
+            ]
+        },
+        {
+            "id": "step-23",
+            "trackIds": [
+                "vot-23"
+            ]
+        },
+        {
+            "id": "step-24",
+            "trackIds": [
+                "vot-24"
+            ]
+        },
+        {
+            "id": "step-25",
+            "trackIds": [
+                "vot-25"
+            ]
+        },
+        {
+            "id": "step-26",
+            "trackIds": [
+                "vot-26"
+            ]
+        },
+        {
+            "id": "step-27",
+            "trackIds": [
+                "vot-27"
+            ]
+        },
+        {
+            "id": "step-28",
+            "trackIds": [
+                "vot-28"
+            ]
+        },
+        {
+            "id": "step-29",
+            "trackIds": [
+                "vot-29"
+            ]
+        },
+        {
+            "id": "step-30",
+            "trackIds": [
+                "vot-30"
+            ]
+        },
+        {
+            "id": "step-31",
+            "trackIds": [
+                "vot-31"
+            ]
+        },
+        {
+            "id": "step-32",
+            "trackIds": [
+                "vot-32"
+            ]
+        },
+        {
+            "id": "step-33",
+            "trackIds": [
+                "vot-33"
+            ]
+        },
+        {
+            "id": "step-34",
+            "trackIds": [
+                "vot-34"
+            ]
+        },
+        {
+            "id": "step-35",
+            "trackIds": [
+                "vot-35"
+            ]
+        },
+        {
+            "id": "step-36",
+            "trackIds": [
+                "vot-36"
+            ]
+        },
+        {
+            "id": "step-37",
+            "trackIds": [
+                "vot-37"
+            ]
+        },
+        {
+            "id": "step-38",
+            "trackIds": [
+                "vot-38"
+            ]
+        },
+        {
+            "id": "step-39",
+            "trackIds": [
+                "vot-39"
+            ]
+        },
+        {
+            "id": "step-40",
+            "trackIds": [
+                "vot-40"
+            ]
+        },
+        {
+            "id": "step-41",
+            "trackIds": [
+                "vot-41"
+            ]
+        },
+        {
+            "id": "step-42",
+            "trackIds": [
+                "vot-42"
+            ]
+        },
+        {
+            "id": "step-43",
+            "trackIds": [
+                "vot-43"
+            ]
+        },
+        {
+            "id": "step-44",
+            "trackIds": [
+                "vot-44"
+            ]
+        },
+        {
+            "id": "step-45",
+            "trackIds": [
+                "vot-45"
+            ]
+        },
+        {
+            "id": "step-46",
+            "trackIds": [
+                "vot-46"
+            ]
+        },
+        {
+            "id": "step-47",
+            "trackIds": [
+                "vot-47"
+            ]
+        },
+        {
+            "id": "step-48",
+            "trackIds": [
+                "vot-48"
+            ]
+        },
+        {
+            "id": "step-49",
+            "trackIds": [
+                "vot-49"
+            ]
+        },
+        {
+            "id": "step-50",
+            "trackIds": [
+                "vot-50"
+            ]
+        },
+        {
+            "id": "step-51",
+            "trackIds": [
+                "vot-51"
+            ]
+        },
+        {
+            "id": "step-52",
+            "trackIds": [
+                "vot-52"
+            ]
+        },
+        {
+            "id": "step-53",
+            "trackIds": [
+                "vot-53"
+            ]
+        },
+        {
+            "id": "step-54",
+            "trackIds": [
+                "vot-54"
+            ]
+        },
+        {
+            "id": "step-55",
+            "trackIds": [
+                "vot-55"
+            ]
+        },
+        {
+            "id": "step-56",
+            "trackIds": [
+                "vot-56"
+            ]
+        },
+        {
+            "id": "step-57",
+            "trackIds": [
+                "vot-57"
+            ]
+        },
+        {
+            "id": "step-58",
+            "trackIds": [
+                "vot-58"
+            ]
+        },
+        {
+            "id": "step-59",
+            "trackIds": [
+                "vot-59"
+            ]
+        },
+        {
+            "id": "step-60",
+            "trackIds": [
+                "vot-60"
+            ]
+        },
+        {
+            "id": "step-61",
+            "trackIds": [
+                "vot-61"
+            ]
+        },
+        {
+            "id": "step-62",
+            "trackIds": [
+                "vot-62"
+            ]
+        },
+        {
+            "id": "step-63",
+            "trackIds": [
+                "vot-63"
+            ]
+        },
+        {
+            "id": "step-64",
+            "trackIds": [
+                "vot-64"
+            ]
+        },
+        {
+            "id": "step-65",
+            "trackIds": [
+                "vot-65"
+            ]
+        },
+        {
+            "id": "step-66",
+            "trackIds": [
+                "vot-66"
+            ]
+        },
+        {
+            "id": "step-67",
+            "trackIds": [
+                "vot-67"
+            ]
+        },
+        {
+            "id": "step-68",
+            "trackIds": [
+                "vot-68"
+            ]
+        },
+        {
+            "id": "step-69",
+            "trackIds": [
+                "vot-69"
+            ]
+        }
+    ],
+    "tracks": [
+        {
+            "id": "vot-0",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:03.057",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-0.mp3",
+            "vttCues": [
+                {
+                    "text": "Let's get started counting.",
+                    "startTime": 0,
+                    "endTime": 2947.821
+                },
+                {
+                    "text": "1",
+                    "startTime": 2947.821,
+                    "endTime": 3057
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-0.vtt"
+        },
+        {
+            "id": "vot-1",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.753",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-1.mp3",
+            "vttCues": [
+                {
+                    "text": "2",
+                    "startTime": 0,
+                    "endTime": 753
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-1.vtt"
+        },
+        {
+            "id": "vot-2",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.897",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-2.mp3",
+            "vttCues": [
+                {
+                    "text": "3",
+                    "startTime": 0,
+                    "endTime": 897
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-2.vtt"
+        },
+        {
+            "id": "vot-3",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.717",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-3.mp3",
+            "vttCues": [
+                {
+                    "text": "4",
+                    "startTime": 0,
+                    "endTime": 717
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-3.vtt"
+        },
+        {
+            "id": "vot-4",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.825",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-4.mp3",
+            "vttCues": [
+                {
+                    "text": "5",
+                    "startTime": 0,
+                    "endTime": 825
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-4.vtt"
+        },
+        {
+            "id": "vot-5",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.825",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-5.mp3",
+            "vttCues": [
+                {
+                    "text": "6",
+                    "startTime": 0,
+                    "endTime": 825
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-5.vtt"
+        },
+        {
+            "id": "vot-6",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.897",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-6.mp3",
+            "vttCues": [
+                {
+                    "text": "7",
+                    "startTime": 0,
+                    "endTime": 897
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-6.vtt"
+        },
+        {
+            "id": "vot-7",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.825",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-7.mp3",
+            "vttCues": [
+                {
+                    "text": "8",
+                    "startTime": 0,
+                    "endTime": 825
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-7.vtt"
+        },
+        {
+            "id": "vot-8",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.861",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-8.mp3",
+            "vttCues": [
+                {
+                    "text": "9",
+                    "startTime": 0,
+                    "endTime": 861
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-8.vtt"
+        },
+        {
+            "id": "vot-9",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:02.373",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-9.mp3",
+            "vttCues": [
+                {
+                    "text": "Reaching the tens.",
+                    "startTime": 0,
+                    "endTime": 2135.7
+                },
+                {
+                    "text": "10",
+                    "startTime": 2135.7,
+                    "endTime": 2373
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-9.vtt"
+        },
+        {
+            "id": "vot-10",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.933",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-10.mp3",
+            "vttCues": [
+                {
+                    "text": "11",
+                    "startTime": 0,
+                    "endTime": 933
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-10.vtt"
+        },
+        {
+            "id": "vot-11",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.969",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-11.mp3",
+            "vttCues": [
+                {
+                    "text": "12",
+                    "startTime": 0,
+                    "endTime": 969
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-11.vtt"
+        },
+        {
+            "id": "vot-12",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-12.mp3",
+            "vttCues": [
+                {
+                    "text": "13",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-12.vtt"
+        },
+        {
+            "id": "vot-13",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.005",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-13.mp3",
+            "vttCues": [
+                {
+                    "text": "14",
+                    "startTime": 0,
+                    "endTime": 1005
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-13.vtt"
+        },
+        {
+            "id": "vot-14",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-14.mp3",
+            "vttCues": [
+                {
+                    "text": "15",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-14.vtt"
+        },
+        {
+            "id": "vot-15",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-15.mp3",
+            "vttCues": [
+                {
+                    "text": "16",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-15.vtt"
+        },
+        {
+            "id": "vot-16",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-16.mp3",
+            "vttCues": [
+                {
+                    "text": "17",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-16.vtt"
+        },
+        {
+            "id": "vot-17",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:00.969",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-17.mp3",
+            "vttCues": [
+                {
+                    "text": "18",
+                    "startTime": 0,
+                    "endTime": 969
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-17.vtt"
+        },
+        {
+            "id": "vot-18",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-18.mp3",
+            "vttCues": [
+                {
+                    "text": "19",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-18.vtt"
+        },
+        {
+            "id": "vot-19",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:02.229",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-19.mp3",
+            "vttCues": [
+                {
+                    "text": "And now twenty, yeah!",
+                    "startTime": 0,
+                    "endTime": 2229
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-19.vtt"
+        },
+        {
+            "id": "vot-20",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-20.mp3",
+            "vttCues": [
+                {
+                    "text": "21",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-20.vtt"
+        },
+        {
+            "id": "vot-21",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-21.mp3",
+            "vttCues": [
+                {
+                    "text": "22",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-21.vtt"
+        },
+        {
+            "id": "vot-22",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.293",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-22.mp3",
+            "vttCues": [
+                {
+                    "text": "23",
+                    "startTime": 0,
+                    "endTime": 1293
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-22.vtt"
+        },
+        {
+            "id": "vot-23",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-23.mp3",
+            "vttCues": [
+                {
+                    "text": "24",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-23.vtt"
+        },
+        {
+            "id": "vot-24",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-24.mp3",
+            "vttCues": [
+                {
+                    "text": "25",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-24.vtt"
+        },
+        {
+            "id": "vot-25",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-25.mp3",
+            "vttCues": [
+                {
+                    "text": "26",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-25.vtt"
+        },
+        {
+            "id": "vot-26",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-26.mp3",
+            "vttCues": [
+                {
+                    "text": "27",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-26.vtt"
+        },
+        {
+            "id": "vot-27",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-27.mp3",
+            "vttCues": [
+                {
+                    "text": "28",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-27.vtt"
+        },
+        {
+            "id": "vot-28",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.257",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-28.mp3",
+            "vttCues": [
+                {
+                    "text": "29",
+                    "startTime": 0,
+                    "endTime": 1257
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-28.vtt"
+        },
+        {
+            "id": "vot-29",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:03.021",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-29.mp3",
+            "vttCues": [
+                {
+                    "text": "Ooh! la la! thirty!",
+                    "startTime": 0,
+                    "endTime": 3021
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-29.vtt"
+        },
+        {
+            "id": "vot-30",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-30.mp3",
+            "vttCues": [
+                {
+                    "text": "31",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-30.vtt"
+        },
+        {
+            "id": "vot-31",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.041",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-31.mp3",
+            "vttCues": [
+                {
+                    "text": "32",
+                    "startTime": 0,
+                    "endTime": 1041
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-31.vtt"
+        },
+        {
+            "id": "vot-32",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.257",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-32.mp3",
+            "vttCues": [
+                {
+                    "text": "33",
+                    "startTime": 0,
+                    "endTime": 1257
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-32.vtt"
+        },
+        {
+            "id": "vot-33",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-33.mp3",
+            "vttCues": [
+                {
+                    "text": "34",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-33.vtt"
+        },
+        {
+            "id": "vot-34",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-34.mp3",
+            "vttCues": [
+                {
+                    "text": "35",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-34.vtt"
+        },
+        {
+            "id": "vot-35",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-35.mp3",
+            "vttCues": [
+                {
+                    "text": "36",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-35.vtt"
+        },
+        {
+            "id": "vot-36",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-36.mp3",
+            "vttCues": [
+                {
+                    "text": "37",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-36.vtt"
+        },
+        {
+            "id": "vot-37",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-37.mp3",
+            "vttCues": [
+                {
+                    "text": "38",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-37.vtt"
+        },
+        {
+            "id": "vot-38",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-38.mp3",
+            "vttCues": [
+                {
+                    "text": "39",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-38.vtt"
+        },
+        {
+            "id": "vot-39",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.545",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-39.mp3",
+            "vttCues": [
+                {
+                    "text": "Forty baby!",
+                    "startTime": 0,
+                    "endTime": 1545
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-39.vtt"
+        },
+        {
+            "id": "vot-40",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-40.mp3",
+            "vttCues": [
+                {
+                    "text": "41",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-40.vtt"
+        },
+        {
+            "id": "vot-41",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.005",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-41.mp3",
+            "vttCues": [
+                {
+                    "text": "42",
+                    "startTime": 0,
+                    "endTime": 1005
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-41.vtt"
+        },
+        {
+            "id": "vot-42",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-42.mp3",
+            "vttCues": [
+                {
+                    "text": "43",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-42.vtt"
+        },
+        {
+            "id": "vot-43",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.077",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-43.mp3",
+            "vttCues": [
+                {
+                    "text": "44",
+                    "startTime": 0,
+                    "endTime": 1077
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-43.vtt"
+        },
+        {
+            "id": "vot-44",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-44.mp3",
+            "vttCues": [
+                {
+                    "text": "45",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-44.vtt"
+        },
+        {
+            "id": "vot-45",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-45.mp3",
+            "vttCues": [
+                {
+                    "text": "46",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-45.vtt"
+        },
+        {
+            "id": "vot-46",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-46.mp3",
+            "vttCues": [
+                {
+                    "text": "47",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-46.vtt"
+        },
+        {
+            "id": "vot-47",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-47.mp3",
+            "vttCues": [
+                {
+                    "text": "48",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-47.vtt"
+        },
+        {
+            "id": "vot-48",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-48.mp3",
+            "vttCues": [
+                {
+                    "text": "49",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-48.vtt"
+        },
+        {
+            "id": "vot-49",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.545",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-49.mp3",
+            "vttCues": [
+                {
+                    "text": "Fiffty Mama!",
+                    "startTime": 0,
+                    "endTime": 1545
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-49.vtt"
+        },
+        {
+            "id": "vot-50",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-50.mp3",
+            "vttCues": [
+                {
+                    "text": "51",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-50.vtt"
+        },
+        {
+            "id": "vot-51",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.041",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-51.mp3",
+            "vttCues": [
+                {
+                    "text": "52",
+                    "startTime": 0,
+                    "endTime": 1041
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-51.vtt"
+        },
+        {
+            "id": "vot-52",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.257",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-52.mp3",
+            "vttCues": [
+                {
+                    "text": "53",
+                    "startTime": 0,
+                    "endTime": 1257
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-52.vtt"
+        },
+        {
+            "id": "vot-53",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.113",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-53.mp3",
+            "vttCues": [
+                {
+                    "text": "54",
+                    "startTime": 0,
+                    "endTime": 1113
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-53.vtt"
+        },
+        {
+            "id": "vot-54",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-54.mp3",
+            "vttCues": [
+                {
+                    "text": "55",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-54.vtt"
+        },
+        {
+            "id": "vot-55",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-55.mp3",
+            "vttCues": [
+                {
+                    "text": "56",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-55.vtt"
+        },
+        {
+            "id": "vot-56",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-56.mp3",
+            "vttCues": [
+                {
+                    "text": "57",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-56.vtt"
+        },
+        {
+            "id": "vot-57",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-57.mp3",
+            "vttCues": [
+                {
+                    "text": "58",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-57.vtt"
+        },
+        {
+            "id": "vot-58",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-58.mp3",
+            "vttCues": [
+                {
+                    "text": "59",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-58.vtt"
+        },
+        {
+            "id": "vot-59",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.653",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-59.mp3",
+            "vttCues": [
+                {
+                    "text": "Sixty pappa!",
+                    "startTime": 0,
+                    "endTime": 1653
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-59.vtt"
+        },
+        {
+            "id": "vot-60",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-60.mp3",
+            "vttCues": [
+                {
+                    "text": "Now let's go",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-60.vtt"
+        },
+        {
+            "id": "vot-61",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.581",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-61.mp3",
+            "vttCues": [
+                {
+                    "text": "At the circus!",
+                    "startTime": 0,
+                    "endTime": 1581
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-61.vtt"
+        },
+        {
+            "id": "vot-62",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:40.569",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-62.mp3",
+            "vttCues": [
+                {
+                    "text": "eyebrows skyward. ",
+                    "startTime": 0,
+                    "endTime": 1183.536
+                },
+                {
+                    "text": "his serenade begins. ",
+                    "startTime": 1183.536,
+                    "endTime": 2564.329
+                },
+                {
+                    "text": "  from cotton-candy calf muscles, ",
+                    "startTime": 2564.329,
+                    "endTime": 4799.898
+                },
+                {
+                    "text": "eyebrows skyward. He grates his ukulele, ",
+                    "startTime": 4799.898,
+                    "endTime": 7495.731
+                },
+                {
+                    "text": "opens a heart-shaped mouth, ",
+                    "startTime": 7495.731,
+                    "endTime": 9336.788
+                },
+                {
+                    "text": " \nopens a heart-shaped mouth, inhales— \nhis serenade begins. ",
+                    "startTime": 9336.788,
+                    "endTime": 13347.661
+                },
+                {
+                    "text": "Now's the time. ",
+                    "startTime": 13347.661,
+                    "endTime": 14399.694
+                },
+                {
+                    "text": "From the shadows,  a blast like a trumpeting elephant: ",
+                    "startTime": 14399.694,
+                    "endTime": 18016.055
+                },
+                {
+                    "text": "obscene, ragged. ",
+                    "startTime": 18016.055,
+                    "endTime": 19133.84
+                },
+                {
+                    "text": "with his trombone. ",
+                    "startTime": 19133.84,
+                    "endTime": 20383.128
+                },
+                {
+                    "text": "slips into and out of the infinite. ",
+                    "startTime": 20383.128,
+                    "endTime": 22750.201
+                },
+                {
+                    "text": "nd \nwith his trombone. The gold of the slide \nslips into and",
+                    "startTime": 22750.201,
+                    "endTime": 26695.323
+                },
+                {
+                    "text": "out of the infinite. ",
+                    "startTime": 26695.323,
+                    "endTime": 28076.115
+                },
+                {
+                    "text": "Everything smells of panther  and piss and mint. ",
+                    "startTime": 28076.115,
+                    "endTime": 31297.964
+                },
+                {
+                    "text": "and the awful laughing shoes, ",
+                    "startTime": 31297.964,
+                    "endTime": 33270.525
+                },
+                {
+                    "text": "ever more grave, ",
+                    "startTime": 33270.525,
+                    "endTime": 34388.31
+                },
+                {
+                    "text": " tears \nand the awful laughing shoes, \nthe little boy grows",
+                    "startTime": 34388.31,
+                    "endTime": 38267.679
+                },
+                {
+                    "text": "\never more grave, ever more severe.",
+                    "startTime": 38267.679,
+                    "endTime": 40569
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-62.vtt"
+        },
+        {
+            "id": "vot-63",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.149",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-63.mp3",
+            "vttCues": [
+                {
+                    "text": "64",
+                    "startTime": 0,
+                    "endTime": 1149
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-63.vtt"
+        },
+        {
+            "id": "vot-64",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.257",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-64.mp3",
+            "vttCues": [
+                {
+                    "text": "65",
+                    "startTime": 0,
+                    "endTime": 1257
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-64.vtt"
+        },
+        {
+            "id": "vot-65",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.221",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-65.mp3",
+            "vttCues": [
+                {
+                    "text": "66",
+                    "startTime": 0,
+                    "endTime": 1221
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-65.vtt"
+        },
+        {
+            "id": "vot-66",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.257",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-66.mp3",
+            "vttCues": [
+                {
+                    "text": "67",
+                    "startTime": 0,
+                    "endTime": 1257
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-66.vtt"
+        },
+        {
+            "id": "vot-67",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.185",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-67.mp3",
+            "vttCues": [
+                {
+                    "text": "68",
+                    "startTime": 0,
+                    "endTime": 1185
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-67.vtt"
+        },
+        {
+            "id": "vot-68",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.293",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-68.mp3",
+            "vttCues": [
+                {
+                    "text": "69",
+                    "startTime": 0,
+                    "endTime": 1293
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-68.vtt"
+        },
+        {
+            "id": "vot-69",
+            "clipBegin": "00:00:00.000",
+            "clipEnd": "00:00:01.401",
+            "src": "../../audio/b6407aeb46b74bcdb7321b4963d9d524-vot-69.mp3",
+            "vttCues": [
+                {
+                    "text": "Done and done!",
+                    "startTime": 0,
+                    "endTime": 1401
+                }
+            ],
+            "vtt": "../../vtt/b6407aeb46b74bcdb7321b4963d9d524_vot-69.vtt"
+        }
+    ]
+}

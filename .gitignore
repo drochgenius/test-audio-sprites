@@ -1,2 +1,4 @@
 node_modules/
 build/
+sox-poc/**/*.wav
+sox-poc/**/*.mp3
