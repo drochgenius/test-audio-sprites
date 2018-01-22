@@ -55,159 +55,329 @@
             "trackIds": [
                 "vot-8"
             ]
+        },
+        {
+            "id": "step-9",
+            "trackIds": [
+                "vot-9"
+            ]
+        },
+        {
+            "id": "step-10",
+            "trackIds": [
+                "vot-10"
+            ]
+        },
+        {
+            "id": "step-11",
+            "trackIds": [
+                "vot-11"
+            ]
+        },
+        {
+            "id": "step-12",
+            "trackIds": [
+                "vot-12"
+            ]
+        },
+        {
+            "id": "step-13",
+            "trackIds": [
+                "vot-13"
+            ]
+        },
+        {
+            "id": "step-14",
+            "trackIds": [
+                "vot-14"
+            ]
+        },
+        {
+            "id": "step-15",
+            "trackIds": [
+                "vot-15"
+            ]
+        },
+        {
+            "id": "step-16",
+            "trackIds": [
+                "vot-16"
+            ]
         }
     ],
     "tracks": [
         {
             "id": "vot-0",
-            "clipBegin": "00:00:00.000",
-            "clipEnd": "00:00:09.396",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:00",
+            "clipEnd": "00:00:03.971",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "The manager of a hockey team is writing out the team roster. ",
+                    "text": "Elias made a pitcher of lemonade to sell to his friends.  ",
                     "startTime": 0,
-                    "endTime": 4309.444
-                },
-                {
-                    "text": "She notices that the jersey numbers form a pattern. ",
-                    "startTime": 4309.444,
-                    "endTime": 7983.068
-                },
-                {
-                    "text": "What is the pattern?",
-                    "startTime": 7983.068,
-                    "endTime": 9396
+                    "endTime": 3971
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-1",
-            "clipBegin": "00:00:10.397",
-            "clipEnd": "00:00:10.779",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:03.972",
+            "clipEnd": "00:00:07.603",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "",
-                    "startTime": 10397,
-                    "endTime": 10779
+                    "text": "He charges one dollar for each cup of lemonade.  ",
+                    "startTime": 3972,
+                    "endTime": 7603
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-2",
-            "clipBegin": "00:00:11.780",
-            "clipEnd": "00:00:12.162",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:07.604",
+            "clipEnd": "00:00:15.284",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "",
-                    "startTime": 11780,
-                    "endTime": 12162
+                    "text": "His first customer wants to pay for the lemonade ",
+                    "startTime": 7604,
+                    "endTime": 11832.315
+                },
+                {
+                    "text": "with 100 pennies. ",
+                    "startTime": 11832.315,
+                    "endTime": 13385.573
+                },
+                {
+                    "text": "Is this enough money? ",
+                    "startTime": 13385.573,
+                    "endTime": 15284
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-3",
-            "clipBegin": "00:00:13.163",
-            "clipEnd": "00:00:13.546",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:15.285",
+            "clipEnd": "00:00:18.89",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "",
-                    "startTime": 13163,
-                    "endTime": 13546
+                    "text": "Since 1 penny is equal to 1 cent, ",
+                    "startTime": 15285,
+                    "endTime": 18890
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-4",
-            "clipBegin": "00:00:14.547",
-            "clipEnd": "00:00:17.908",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:18.891",
+            "clipEnd": "00:00:23.201",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "What number is on Megan’s jersey?",
-                    "startTime": 14547,
-                    "endTime": 17908
+                    "text": "100 pennies is equal to 100 cents.  ",
+                    "startTime": 18891,
+                    "endTime": 23201
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-5",
-            "clipBegin": "00:00:18.909",
-            "clipEnd": "00:00:27.521",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:23.202",
+            "clipEnd": "00:00:27.538",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "Let’s look to see if there is a constant increase ",
-                    "startTime": 18909,
-                    "endTime": 22719.619
-                },
-                {
-                    "text": "in the jersey numbers. ",
-                    "startTime": 22719.619,
-                    "endTime": 24472.504
-                },
-                {
-                    "text": "What is the difference between 14 and 7?",
-                    "startTime": 24472.504,
-                    "endTime": 27521
+                    "text": "And 100 cents is equal to 1 dollar.  ",
+                    "startTime": 23202,
+                    "endTime": 27538
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-6",
-            "clipBegin": "00:00:28.522",
-            "clipEnd": "00:00:33.216",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:27.539",
+            "clipEnd": "00:00:31.693",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "The difference between 14 and 7 is 7.",
-                    "startTime": 28522,
-                    "endTime": 33216
+                    "text": "So the customer has enough money for the cup of lemonade.  ",
+                    "startTime": 27539,
+                    "endTime": 31693
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-7",
-            "clipBegin": "00:00:34.217",
-            "clipEnd": "00:00:39.015",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:31.694",
+            "clipEnd": "00:00:35.481",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "The difference between 21 and 14 is also 7.",
-                    "startTime": 34217,
-                    "endTime": 39015
+                    "text": "Elias has another customer that orders a cup of lemonade.  ",
+                    "startTime": 31694,
+                    "endTime": 35481
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         },
         {
             "id": "vot-8",
-            "clipBegin": "00:00:40.016",
-            "clipEnd": "00:00:44.448",
-            "src": "../../audio/8e6fc224c4e543e68c5326a9633c9744.mp3",
+            "clipBegin": "00:00:35.482",
+            "clipEnd": "00:00:39.505",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
             "vttCues": [
                 {
-                    "text": "And so is the difference ",
-                    "startTime": 40016,
-                    "endTime": 42592.744
-                },
-                {
-                    "text": "between 28 and 21.",
-                    "startTime": 42592.744,
-                    "endTime": 44448
+                    "text": "His next customer pays for the lemonade with a dollar bill.  ",
+                    "startTime": 35482,
+                    "endTime": 39505
                 }
             ],
-            "vtt": "../../vtt/8e6fc224c4e543e68c5326a9633c9744.vtt"
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-9",
+            "clipBegin": "00:00:39.506",
+            "clipEnd": "00:00:43.581",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "The easiest way to pay a dollar is with a one dollar bill.  ",
+                    "startTime": 39506,
+                    "endTime": 43581
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-10",
+            "clipBegin": "00:00:43.582",
+            "clipEnd": "00:00:46.247",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "We write one dollar like this... ",
+                    "startTime": 43582,
+                    "endTime": 46247
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-11",
+            "clipBegin": "00:00:46.248",
+            "clipEnd": "00:00:48.573",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "with a dollar sign in the front.  ",
+                    "startTime": 46248,
+                    "endTime": 48573
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-12",
+            "clipBegin": "00:00:48.574",
+            "clipEnd": "00:00:55.026",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "The number of dollars comes next. For one dollar, ",
+                    "startTime": 48574,
+                    "endTime": 52993.178
+                },
+                {
+                    "text": "we write the digit 1.  ",
+                    "startTime": 52993.178,
+                    "endTime": 55026
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-13",
+            "clipBegin": "00:00:55.027",
+            "clipEnd": "00:01:03.203",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "Then comes a decimal point separating the ones from the",
+                    "startTime": 55027,
+                    "endTime": 59760.474
+                },
+                {
+                    "text": "decimals, ",
+                    "startTime": 59760.474,
+                    "endTime": 60621.105
+                },
+                {
+                    "text": "or the bills from the cents. ",
+                    "startTime": 60621.105,
+                    "endTime": 63116.937
+                },
+                {
+                    "text": " ",
+                    "startTime": 63116.937,
+                    "endTime": 63203
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-14",
+            "clipBegin": "00:01:03.204",
+            "clipEnd": "00:01:11.877",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "And the amount of extra cents come after the decimal point. ",
+                    "startTime": 63204,
+                    "endTime": 67809.133
+                },
+                {
+                    "text": "For exactly one dollar, there are zero extra cents.  ",
+                    "startTime": 67809.133,
+                    "endTime": 71877
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-15",
+            "clipBegin": "00:01:11.878",
+            "clipEnd": "00:01:14.595",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "Another friends wants a cup of lemonade, too.  ",
+                    "startTime": 71878,
+                    "endTime": 74595
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
+        },
+        {
+            "id": "vot-16",
+            "clipBegin": "00:01:14.596",
+            "clipEnd": "00:01:18.122",
+            "src": "../../audio/e8fc286b559241b19c8cce3245f271d8.mp3",
+            "vttCues": [
+                {
+                    "text": "This customer wants to pay with 4 quarters.  ",
+                    "startTime": 74596,
+                    "endTime": 78122
+                }
+            ],
+            "vtt": "../../vtt/e8fc286b559241b19c8cce3245f271d8.vtt"
         }
     ]
 }

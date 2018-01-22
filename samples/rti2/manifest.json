@@ -1,0 +1,408 @@
+{
+    "type": "mx18_rti_paced_content",
+    "contentId": "",
+    "playlists": [
+        {
+            "id": "step-0",
+            "trackIds": [
+                "vot-0"
+            ]
+        },
+        {
+            "id": "step-1",
+            "trackIds": [
+                "vot-1"
+            ]
+        },
+        {
+            "id": "step-2",
+            "trackIds": [
+                "vot-2"
+            ]
+        },
+        {
+            "id": "step-3",
+            "trackIds": [
+                "vot-3"
+            ]
+        },
+        {
+            "id": "step-4",
+            "trackIds": [
+                "vot-4"
+            ]
+        },
+        {
+            "id": "step-5",
+            "trackIds": [
+                "vot-5"
+            ]
+        },
+        {
+            "id": "step-6",
+            "trackIds": [
+                "vot-6"
+            ]
+        },
+        {
+            "id": "step-7",
+            "trackIds": [
+                "vot-7"
+            ]
+        },
+        {
+            "id": "step-8",
+            "trackIds": [
+                "vot-8"
+            ]
+        },
+        {
+            "id": "step-9",
+            "trackIds": [
+                "vot-9"
+            ]
+        },
+        {
+            "id": "step-10",
+            "trackIds": [
+                "vot-10"
+            ]
+        },
+        {
+            "id": "step-11",
+            "trackIds": [
+                "vot-11"
+            ]
+        },
+        {
+            "id": "step-12",
+            "trackIds": [
+                "vot-12"
+            ]
+        },
+        {
+            "id": "step-13",
+            "trackIds": [
+                "vot-13"
+            ]
+        },
+        {
+            "id": "step-14",
+            "trackIds": [
+                "vot-14"
+            ]
+        },
+        {
+            "id": "step-15",
+            "trackIds": [
+                "vot-15"
+            ]
+        },
+        {
+            "id": "step-16",
+            "trackIds": [
+                "vot-16"
+            ]
+        }
+    ],
+    "tracks": [
+        {
+            "id": "vot-0",
+            "clipBegin": "00:00:00",
+            "clipEnd": "00:00:04.392",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "You already know that when you add, ",
+                    "startTime": 0,
+                    "endTime": 2432.492
+                },
+                {
+                    "text": "you put two groups together. ",
+                    "startTime": 2432.492,
+                    "endTime": 4392
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-1",
+            "clipBegin": "00:00:04.393",
+            "clipEnd": "00:00:06.769",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "3 plus 2 equals 5.  ",
+                    "startTime": 4393,
+                    "endTime": 6769
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-2",
+            "clipBegin": "00:00:06.77",
+            "clipEnd": "00:00:11.342",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "The commutative property tells us ",
+                    "startTime": 6770,
+                    "endTime": 8713.1
+                },
+                {
+                    "text": "that we can switch the order of the addends.  ",
+                    "startTime": 8713.1,
+                    "endTime": 11342
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-3",
+            "clipBegin": "00:00:11.343",
+            "clipEnd": "00:00:16.599",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "2 plus 3 equals 5. ",
+                    "startTime": 11343,
+                    "endTime": 12833.507
+                },
+                {
+                    "text": "[pause] We can make two more addition equations ",
+                    "startTime": 12833.507,
+                    "endTime": 16599
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-4",
+            "clipBegin": "00:00:16.6",
+            "clipEnd": "00:00:18.724",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "We can start with the total 5… ",
+                    "startTime": 16600,
+                    "endTime": 18724
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-5",
+            "clipBegin": "00:00:18.725",
+            "clipEnd": "00:00:26.465",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "and place the addends to the right. [pause] ",
+                    "startTime": 18725,
+                    "endTime": 21406.575
+                },
+                {
+                    "text": "Now let’s look at the subtraction equations we can write ",
+                    "startTime": 21406.575,
+                    "endTime": 24880.433
+                },
+                {
+                    "text": "with these same numbers.  ",
+                    "startTime": 24880.433,
+                    "endTime": 26465
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-6",
+            "clipBegin": "00:00:26.466",
+            "clipEnd": "00:00:32.226",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "When you subtract, you take one group from another. ",
+                    "startTime": 26466,
+                    "endTime": 30806.87
+                },
+                {
+                    "text": "5 minus 2 is 3. ",
+                    "startTime": 30806.87,
+                    "endTime": 32142.522
+                },
+                {
+                    "text": " ",
+                    "startTime": 32142.522,
+                    "endTime": 32226
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-7",
+            "clipBegin": "00:00:32.227",
+            "clipEnd": "00:00:35.395",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "Or we could say 3 equals 5 minus 2.  ",
+                    "startTime": 32227,
+                    "endTime": 35395
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-8",
+            "clipBegin": "00:00:35.396",
+            "clipEnd": "00:00:37.808",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "We could also take away 3.  ",
+                    "startTime": 35396,
+                    "endTime": 37808
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-9",
+            "clipBegin": "00:00:37.809",
+            "clipEnd": "00:00:40.257",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "5 minus 3 equals 2.  ",
+                    "startTime": 37809,
+                    "endTime": 40257
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-10",
+            "clipBegin": "00:00:40.258",
+            "clipEnd": "00:00:43.354",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "Or, 2 equals 5 minus 3.  ",
+                    "startTime": 40258,
+                    "endTime": 43354
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-11",
+            "clipBegin": "00:00:43.355",
+            "clipEnd": "00:00:51.383",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "When one operation undoes another we call those operations",
+                    "startTime": 43355,
+                    "endTime": 47021.331
+                },
+                {
+                    "text": "inverse",
+                    "startTime": 47021.331,
+                    "endTime": 47463.819
+                },
+                {
+                    "text": "operations. Addition and subtraction are inverse operations.  ",
+                    "startTime": 47463.819,
+                    "endTime": 51383
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-12",
+            "clipBegin": "00:00:51.384",
+            "clipEnd": "00:00:59.844",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "A break apart drawing models the relationship between numbers. ",
+                    "startTime": 51384,
+                    "endTime": 55274.365
+                },
+                {
+                    "text": "The drawing can help you write related addition and subtraction",
+                    "startTime": 55274.365,
+                    "endTime": 59164.73
+                },
+                {
+                    "text": "equations. ",
+                    "startTime": 59164.73,
+                    "endTime": 59844
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-13",
+            "clipBegin": "00:00:59.845",
+            "clipEnd": "00:01:07.585",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "This drawing models how 2, 3, and 5 are related. ",
+                    "startTime": 59845,
+                    "endTime": 63491.731
+                },
+                {
+                    "text": "All eight equations can be modeled with this drawing.  ",
+                    "startTime": 63491.731,
+                    "endTime": 67585
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-14",
+            "clipBegin": "00:01:07.586",
+            "clipEnd": "00:01:10.826",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "They each have the total 5 . . . ",
+                    "startTime": 67586,
+                    "endTime": 70826
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-15",
+            "clipBegin": "00:01:10.827",
+            "clipEnd": "00:01:12.087",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "the addend 3… ",
+                    "startTime": 70827,
+                    "endTime": 72087
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        },
+        {
+            "id": "vot-16",
+            "clipBegin": "00:01:12.088",
+            "clipEnd": "00:01:13.636",
+            "src": "../../audio/69700143ec8444f2b084ac37340891df.mp3",
+            "vttCues": [
+                {
+                    "text": "and the addend 2.  ",
+                    "startTime": 72088,
+                    "endTime": 73636
+                }
+            ],
+            "vtt": "../../vtt/69700143ec8444f2b084ac37340891df.vtt"
+        }
+    ]
+}
