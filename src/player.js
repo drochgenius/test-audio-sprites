@@ -19,7 +19,8 @@ export async function play(audio, manifest) {
 
     const sound = new Howl({
         src,
-        sprite
+        sprite,
+        html5: true
     });
 
     let index = 0;
@@ -41,7 +42,9 @@ export async function play(audio, manifest) {
 
     sound.on('end', () => {
         ++index;
-        sound.play(tracks[index].name);
+        setTimeout(()=>{
+            sound.play(tracks[index].name);
+        }, 2000);
     });
 
     // kick off the playback
